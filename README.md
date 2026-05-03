@@ -200,9 +200,9 @@ python notebooks/superstore_analysis.py
 
 ## 👤 Author
 
-**Ashik** — Data Analyst & Python Developer
-> Connect on [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+**Sohel Rahmn** — Data Analyst & Python Developer
+> Connect on [LinkedIn](https://www.linkedin.com/in/sohel-rahman-a02b7429b/) | [GitHub](https://github.com/sohelrahman2)
 
 ---
 
-*⭐ If this project helped you, consider giving it a star!*
+
